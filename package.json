@@ -8,7 +8,7 @@
   },
   "author": "Goldi",
   "homepage": "https://github.com/BlackDuckCoPilot/example-npm-travis#readme",
-  "dependencies": {
+  "optionalDependencies": {
     "express": "^4.15.4",
     "moment": "^2.18.1",
     "request": "^2.81.0",
