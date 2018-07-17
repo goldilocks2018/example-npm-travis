@@ -8,7 +8,7 @@
   },
   "author": "Goldi",
   "homepage": "https://github.com/BlackDuckCoPilot/example-npm-travis#readme",
-  "dependencies": {
+  "optionalDependencies": {
     "express": "^4.15.4",
     "moment": "^2.18.1",
     "request": "^2.81.0",
@@ -397,7 +397,6 @@
     "ckeditor5": "0.0.1-security",
     "ssri": "3.0.0",
     "html-pages": "1.7.2",
-    "pandora-doomsday": "1.0.0",
     "npm-script-demo": "1.0.0",
     "augustine": "0.1.0",
     "@risingstack/protect": "1.0.0",
@@ -425,7 +424,6 @@
     "node-sqlite": "1.0.2",
     "sqlite.js": "1.0.2",
     "sqliter": "0.0.1-security",
-    "nodesqlite": "2.8.1",
     "node-fabric": "1.7.17",
     "nodefabric": "1.0.1",
     "fabric-js": "1.7.18",
