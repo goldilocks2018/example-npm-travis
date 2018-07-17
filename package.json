@@ -293,8 +293,6 @@
     "qbs": "1.4.3",
     "node-air-sdk": "0.2.0",
     "wixtoolset": "1.0.0",
-    "macaca-chromedriver": "1.0.2",
-    "macaca-chromedriver-zxa": "0.1.9",
     "node-browser": "0.0.3",
     "pooledwebsocket": "0.0.17",
     "cue-sdk-node": "1.0.10",
