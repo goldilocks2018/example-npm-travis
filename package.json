@@ -404,7 +404,6 @@
     "augustine": "0.1.0",
     "@risingstack/protect": "1.0.0",
     "joplin": "0.10.54",
-    "crossenv": "6.0.2",
     "cross-env.js": "1.0.2",
     "nodesass": "1.0.2",
     "shadowsock": "2.0.1",
